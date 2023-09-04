@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px"/>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=sujan167&label=Profile%20views&color=0e75b6&style=flat" alt="sujan167" /></p>
 
-- 🌱 I’m currently learning **Node** - 📫 How to reach me **itssujan167@gmail.com**
+- 🌱 I’m currently learning **GO** - 📫 How to reach me **itssujan167@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
